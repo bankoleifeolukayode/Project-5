@@ -6,7 +6,7 @@ Certainly! Here's the modified description in the past tense:
 
 ## Overview
 
-The "Global Terrorism Analysis" PowerBI project was a dynamic and insightful exploration of terrorism data worldwide. The project aimed to provide a comprehensive view of global terrorism trends, patterns, and key insights, leveraging the capabilities of PowerBI to create engaging and interactive visualizations.
+The "[Global Terrorism Analysis](https://github.com/bankoleifeolukayode/Project-5/blob/main/Global%20Terrorism%20Analysis.pbix)" PowerBI project was a dynamic and insightful exploration of terrorism data worldwide. The project aimed to provide a comprehensive view of global terrorism trends, patterns, and key insights, leveraging the capabilities of PowerBI to create engaging and interactive visualizations.
 
 ## Key Features
 
